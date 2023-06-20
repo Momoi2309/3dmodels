@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2023-06-20T17:22:16.640Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.0" etag="jx9Xz2uFH1oLOwRRlSW4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-20T17:28:48.853Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="bSrPbLP-yZ3TBQPtYfeH" version="21.5.0" type="github">
   <diagram name="Page-1" id="r1bhTQoavVOmwL1zbIzi">
-    <mxGraphModel>
+    <mxGraphModel dx="2284" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="kohdsWZyDrHDNY5HeHcI-2" value="&lt;h3 style=&quot;font-size: 12px;&quot;&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;i style=&quot;font-size: 12px;&quot;&gt;Aplicație Android&lt;/i&gt;&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kohdsWZyDrHDNY5HeHcI-3" value="&lt;h3&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;UI&lt;/font&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kohdsWZyDrHDNY5HeHcI-4" value="&lt;h3&gt;&lt;i&gt;Buton pentru AR în UI&lt;/i&gt;&lt;/h3&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kohdsWZyDrHDNY5HeHcI-5" value="Aplicație AR Unity" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=3;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="370" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kohdsWZyDrHDNY5HeHcI-7" value="&lt;h4&gt;Buton comunicare Unity-Android nativ&lt;/h4&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=3;fontFamily=Verdana;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="20" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kohdsWZyDrHDNY5HeHcI-8" value="Interacțiune AR" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Verdana;fontStyle=3;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
